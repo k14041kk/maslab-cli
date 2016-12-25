@@ -56,6 +56,7 @@ if(program.args.length == 0 && getOptionSize(program) == 0) {
     program.help();
 }
 
+//アカウント情報を表示
 if(program.account != null){
 
 	if(account.isLogin()){
