@@ -1,6 +1,6 @@
 {
   "name": "maslab-cli",
-  "version": "0.0.2",
+  "version": "0.1.0",
   "description": "愛知工業大学 伊藤暢浩研究室専用CLI",
   "preferGlobal": "true",
   "bin": {
@@ -26,8 +26,7 @@
     "inquirer": "^2.0.0",
     "mkdirp": "^0.5.1",
     "preferences": "^0.2.1",
-    "request": "^2.79.0",
-    "tar.gz": "1.0.2"
+    "request": "^2.79.0"
   },
   "devDependencies": {
     "mocha": "^3.2.0"
