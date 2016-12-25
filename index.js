@@ -30,12 +30,12 @@ program
 program
     .command('rescue')
     .description('create Rescue project')
-    .action(function(){rescue.initRescue(current);});
+    .action(function(){rescue.initRescue();});
 
 program
     .command('aiwolf')
     .description('create AIWolf project')
-    .action(function(){aiwolf.initAIWolf(current);});
+    .action(function(){aiwolf.initAIWolf();});
 
 program
     .command('soccer')
