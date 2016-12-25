@@ -26,7 +26,8 @@
     "inquirer": "^2.0.0",
     "mkdirp": "^0.5.1",
     "preferences": "^0.2.1",
-    "request": "^2.79.0"
+    "request": "^2.79.0",
+    "tar": "^2.2.1"
   },
   "devDependencies": {
     "mocha": "^3.2.0"
