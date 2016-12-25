@@ -2,8 +2,9 @@
 愛知工業大学 伊藤暢浩研究室専用CLI
 
 [![Build Status](https://travis-ci.org/k14041kk/maslab-cli.svg?branch=master)](https://travis-ci.org/k14041kk/maslab-cli)
-[![Node](https://img.shields.io/badge/node-%3E%3D%206.9-brightgreen.svg)](https://nodejs.org/ja/)
 [![Dependency Status](https://gemnasium.com/badges/github.com/k14041kk/maslab-cli.svg)](https://gemnasium.com/github.com/k14041kk/maslab-cli)
+[![Code Climate](https://codeclimate.com/github/k14041kk/maslab-cli/badges/gpa.svg)](https://codeclimate.com/github/k14041kk/maslab-cli)
+[![Node](https://img.shields.io/badge/node-%3E%3D%206.9-brightgreen.svg)](https://nodejs.org/ja/)
 [![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/k14041kk/maslab-cli/blob/master/License)
 
 
