@@ -1,6 +1,6 @@
 {
   "name": "maslab-cli",
-  "version": "0.1.2",
+  "version": "0.2.0",
   "description": "愛知工業大学 伊藤暢浩研究室専用CLI",
   "preferGlobal": "true",
   "bin": {

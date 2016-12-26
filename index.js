@@ -8,6 +8,7 @@ var figlet = require('figlet');//大きな文字
 var inquirer = require('inquirer');//対話形式
 
 var packagejson = require('./package.json');
+var update = require('./lib/update');
 var login = require('./lib/login');
 var rescue = require('./lib/rescue');
 var aiwolf = require('./lib/aiwolf');
@@ -21,6 +22,10 @@ program
     .option('-m, --member', 'output Maslab member list')
     .option('-a, --account', 'output your account data');
 
+program
+    .command('update')
+    .description('update Maslab-CLI')
+    .action(update.updateMaslab);
 
 program
     .command('login')
