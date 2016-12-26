@@ -32,6 +32,10 @@
 
     $ maslab
     
+####更新 最新版にmsalab-cliに更新します
+
+    $ maslab update
+  
 ####レスキューの開発環境を作成
 
     $ maslab rescue
