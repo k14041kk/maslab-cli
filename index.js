@@ -23,7 +23,7 @@ program
     .option('-a, --account', 'output your account data');
 
 program
-    .command('update')
+    .command('update [otherVersion]')
     .description('update Maslab-CLI')
     .action(update.updateMaslab);
 
