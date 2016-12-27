@@ -32,9 +32,9 @@
 
     $ maslab
     
-####更新 最新版のmsalab-cliに更新します
+####CLIの更新 オプションを指定するとそのバージョンに更新します
 
-    $ maslab update
+    $ maslab update [version]
     
 ####レスキューの開発環境を作成
 
