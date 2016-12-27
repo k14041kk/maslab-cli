@@ -18,12 +18,12 @@ var current = process.cwd();
 
 program
     .version(packagejson.version)
-    .usage('<keywords>')
+    .usage('<command>')
     .option('-m, --member', 'output Maslab member list')
     .option('-a, --account', 'output your account data');
 
 program
-    .command('update [otherVersion]')
+    .command('update [version]')
     .description('update Maslab-CLI')
     .action(update.updateMaslab);
 
