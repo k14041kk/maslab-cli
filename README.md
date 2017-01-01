@@ -18,14 +18,8 @@
 
 ### インストール
 
-####Windows
-
-    $ install.bat
+    $ sudo npm install -g https://github.com/k14041kk/maslab-cli#master
     
-####Mac
-
-    $ install.sh
-
 ### コマンド一覧
 
 ####基礎 Maslab-CLIのヘルプを表示
